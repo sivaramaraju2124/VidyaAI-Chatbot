@@ -1,8 +1,9 @@
-streamlit
-sqlite3  # Not needed explicitly, part of Python standard library
+streamlit==1.11.0
+gTTS
 google-generativeai
-gtts
-reportlab
+sqlite3
+numpy
+pyttsx3
 SpeechRecognition
 pyaudio
 gunicorn
