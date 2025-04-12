@@ -1,12 +1,7 @@
-Flask==2.3.2
-Flask-SQLAlchemy==3.0.3
-pyttsx3==2.90
-googletrans==4.0.0-rc1
-speechrecognition==3.8.1
-
-streamlit==1.16.0
-google-generativeai==0.8.4
-gTTS==2.2.3
-reportlab==3.6.0
-langdetect==1.0.9
-streamlit_webrtc
+streamlit
+sqlite3  # Not needed explicitly, part of Python standard library
+google-generativeai
+gtts
+reportlab
+SpeechRecognition
+pyaudio
