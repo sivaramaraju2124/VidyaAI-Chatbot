@@ -1,7 +1,6 @@
 streamlit==1.11.0
 gTTS
 google-generativeai
-sqlite3
 numpy
 pyttsx3
 SpeechRecognition
